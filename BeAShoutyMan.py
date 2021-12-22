@@ -4,7 +4,7 @@ from g_python.hmessage import Direction, HMessage
 
 extension_info = {
 	"title": "Be a Shouty Man",
-	"description": "A simple extension to shout all the time. And yes, the name is a joke with Horrible Histories. This is just a test extension.",
+	"description": "A simple extension to shout all the time. And yes, the name is a joke with Horrible Histories.",
 	"version": "1.0",
 	"author": "BrunoBonamigo"
 }
